@@ -1,0 +1,17 @@
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\Rocosa_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\Rocosa_AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\Rocosa_AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\Rocosa_AccesoDatos.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\Rocosa_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\Rocosa_AccesoDatos.deps.json
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\Rocosa_AccesoDatos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\Rocosa_AccesoDatos.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\Rocosa_Modelos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\Rocosa_Modelos.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\Rocosa_AccesoDatos.csproj.CopyComplete
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\Rocosa_AccesoDatos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\refint\Rocosa_AccesoDatos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\Rocosa_AccesoDatos.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\ref\Rocosa_AccesoDatos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\Rocosa_Utilidades.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\Rocosa_Utilidades.pdb

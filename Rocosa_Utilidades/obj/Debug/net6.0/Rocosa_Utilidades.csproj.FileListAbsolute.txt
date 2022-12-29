@@ -1,0 +1,12 @@
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\obj\Debug\net6.0\Rocosa_Utilidades.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\obj\Debug\net6.0\Rocosa_Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\obj\Debug\net6.0\Rocosa_Utilidades.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\obj\Debug\net6.0\Rocosa_Utilidades.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\obj\Debug\net6.0\Rocosa_Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\bin\Debug\net6.0\Rocosa_Utilidades.deps.json
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\bin\Debug\net6.0\Rocosa_Utilidades.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\bin\Debug\net6.0\Rocosa_Utilidades.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\obj\Debug\net6.0\Rocosa_Utilidades.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\obj\Debug\net6.0\refint\Rocosa_Utilidades.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\obj\Debug\net6.0\Rocosa_Utilidades.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Utilidades\obj\Debug\net6.0\ref\Rocosa_Utilidades.dll

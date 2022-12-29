@@ -1,0 +1,12 @@
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\bin\Debug\net6.0\GalletitasFlopi_Utilidades.deps.json
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\bin\Debug\net6.0\GalletitasFlopi_Utilidades.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\bin\Debug\net6.0\GalletitasFlopi_Utilidades.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\obj\Debug\net6.0\GalletitasFlopi_Utilidades.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\obj\Debug\net6.0\GalletitasFlopi_Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\obj\Debug\net6.0\GalletitasFlopi_Utilidades.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\obj\Debug\net6.0\GalletitasFlopi_Utilidades.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\obj\Debug\net6.0\GalletitasFlopi_Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\obj\Debug\net6.0\GalletitasFlopi_Utilidades.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\obj\Debug\net6.0\refint\GalletitasFlopi_Utilidades.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\obj\Debug\net6.0\GalletitasFlopi_Utilidades.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\GalletitasFlopi_Utilidades\obj\Debug\net6.0\ref\GalletitasFlopi_Utilidades.dll
