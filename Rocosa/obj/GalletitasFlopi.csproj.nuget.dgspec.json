@@ -28,14 +28,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\Rocosa_AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\Rocosa_AccesoDatos.csproj"
+              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\GalletitasFlopi_AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\GalletitasFlopi_AccesoDatos.csproj"
               },
-              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj"
+              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj"
               },
-              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj"
+              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj"
               }
             }
           }
@@ -100,12 +100,12 @@
         }
       }
     },
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\Rocosa_AccesoDatos.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\GalletitasFlopi_AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\Rocosa_AccesoDatos.csproj",
-        "projectName": "Rocosa_AccesoDatos",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\Rocosa_AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\GalletitasFlopi_AccesoDatos.csproj",
+        "projectName": "GalletitasFlopi_AccesoDatos",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\GalletitasFlopi_AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
@@ -124,11 +124,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj"
+              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj"
               },
-              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj"
+              "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj": {
+                "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj"
               }
             }
           }
@@ -176,12 +176,12 @@
         }
       }
     },
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj",
-        "projectName": "Rocosa_Modelos",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj",
+        "projectName": "GalletitasFlopi_Modelos",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\obj\\",
         "projectStyle": "PackageReference",
@@ -241,12 +241,12 @@
         }
       }
     },
-    "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj": {
+    "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj",
-        "projectName": "Rocosa_Utilidades",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj",
+        "projectName": "GalletitasFlopi_Utilidades",
+        "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\obj\\",
         "projectStyle": "PackageReference",

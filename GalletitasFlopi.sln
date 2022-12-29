@@ -5,11 +5,11 @@ VisualStudioVersion = 17.4.33103.184
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalletitasFlopi", "Rocosa\GalletitasFlopi.csproj", "{B8553CE9-D8C8-4A5B-A1BA-CD5A31213C8C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rocosa_Utilidades", "Rocosa_Utilidades\Rocosa_Utilidades.csproj", "{5FC6C739-8C72-4E0F-A382-37483CB9240D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalletitasFlopi_Utilidades", "Rocosa_Utilidades\GalletitasFlopi_Utilidades.csproj", "{5FC6C739-8C72-4E0F-A382-37483CB9240D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rocosa_Modelos", "Rocosa_Modelos\Rocosa_Modelos.csproj", "{17D9CA10-6248-40B4-9ED6-F530078DC912}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalletitasFlopi_Modelos", "Rocosa_Modelos\GalletitasFlopi_Modelos.csproj", "{17D9CA10-6248-40B4-9ED6-F530078DC912}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocosa_AccesoDatos", "Rocosa_AccesoDatos\Rocosa_AccesoDatos.csproj", "{94B14D0C-980B-4ABB-879B-0BFC6F52B3E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GalletitasFlopi_AccesoDatos", "Rocosa_AccesoDatos\GalletitasFlopi_AccesoDatos.csproj", "{94B14D0C-980B-4ABB-879B-0BFC6F52B3E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

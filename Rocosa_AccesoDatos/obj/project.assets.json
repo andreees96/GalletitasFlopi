@@ -2824,7 +2824,7 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
-      "Rocosa_Modelos/1.0.0": {
+      "GalletitasFlopi_Modelos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -2832,13 +2832,13 @@
           "Microsoft.Extensions.Identity.Stores": "6.0.12"
         },
         "compile": {
-          "bin/placeholder/Rocosa_Modelos.dll": {}
+          "bin/placeholder/GalletitasFlopi_Modelos.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Rocosa_Modelos.dll": {}
+          "bin/placeholder/GalletitasFlopi_Modelos.dll": {}
         }
       },
-      "Rocosa_Utilidades/1.0.0": {
+      "GalletitasFlopi_Utilidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -2846,10 +2846,10 @@
           "SendGrid": "9.28.1"
         },
         "compile": {
-          "bin/placeholder/Rocosa_Utilidades.dll": {}
+          "bin/placeholder/GalletitasFlopi_Utilidades.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Rocosa_Utilidades.dll": {}
+          "bin/placeholder/GalletitasFlopi_Utilidades.dll": {}
         }
       }
     }
@@ -8263,24 +8263,24 @@
         "system.xml.xdocument.nuspec"
       ]
     },
-    "Rocosa_Modelos/1.0.0": {
+    "GalletitasFlopi_Modelos/1.0.0": {
       "type": "project",
-      "path": "../Rocosa_Modelos/Rocosa_Modelos.csproj",
-      "msbuildProject": "../Rocosa_Modelos/Rocosa_Modelos.csproj"
+      "path": "../Rocosa_Modelos/GalletitasFlopi_Modelos.csproj",
+      "msbuildProject": "../Rocosa_Modelos/GalletitasFlopi_Modelos.csproj"
     },
-    "Rocosa_Utilidades/1.0.0": {
+    "GalletitasFlopi_Utilidades/1.0.0": {
       "type": "project",
-      "path": "../Rocosa_Utilidades/Rocosa_Utilidades.csproj",
-      "msbuildProject": "../Rocosa_Utilidades/Rocosa_Utilidades.csproj"
+      "path": "../Rocosa_Utilidades/GalletitasFlopi_Utilidades.csproj",
+      "msbuildProject": "../Rocosa_Utilidades/GalletitasFlopi_Utilidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "GalletitasFlopi_Modelos >= 1.0.0",
+      "GalletitasFlopi_Utilidades >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.12",
       "Microsoft.EntityFrameworkCore.Relational >= 6.0.12",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.12",
-      "Rocosa_Modelos >= 1.0.0",
-      "Rocosa_Utilidades >= 1.0.0"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.12"
     ]
   },
   "packageFolders": {
@@ -8289,9 +8289,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\Rocosa_AccesoDatos.csproj",
-      "projectName": "Rocosa_AccesoDatos",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\Rocosa_AccesoDatos.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\GalletitasFlopi_AccesoDatos.csproj",
+      "projectName": "GalletitasFlopi_AccesoDatos",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\GalletitasFlopi_AccesoDatos.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\obj\\",
       "projectStyle": "PackageReference",
@@ -8310,11 +8310,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj": {
-              "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj"
+            "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj"
             },
-            "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj": {
-              "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj"
+            "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj": {
+              "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj"
             }
           }
         }

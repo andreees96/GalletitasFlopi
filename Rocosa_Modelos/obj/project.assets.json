@@ -6893,9 +6893,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj",
-      "projectName": "Rocosa_Modelos",
-      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\Rocosa_Modelos.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj",
+      "projectName": "GalletitasFlopi_Modelos",
+      "projectPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\GalletitasFlopi_Modelos.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Modelos\\obj\\",
       "projectStyle": "PackageReference",

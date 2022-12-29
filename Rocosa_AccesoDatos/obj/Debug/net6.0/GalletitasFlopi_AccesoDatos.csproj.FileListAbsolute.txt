@@ -1,0 +1,17 @@
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\GalletitasFlopi_AccesoDatos.deps.json
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\GalletitasFlopi_AccesoDatos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\GalletitasFlopi_AccesoDatos.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\GalletitasFlopi_Modelos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\GalletitasFlopi_Utilidades.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\GalletitasFlopi_Modelos.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\bin\Debug\net6.0\GalletitasFlopi_Utilidades.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\GalletitasFlopi_AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\GalletitasFlopi_AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\GalletitasFlopi_AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\GalletitasFlopi_AccesoDatos.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\GalletitasFlopi_AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\GalletitasFlopi_AccesoDatos.csproj.CopyComplete
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\GalletitasFlopi_AccesoDatos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\refint\GalletitasFlopi_AccesoDatos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\GalletitasFlopi_AccesoDatos.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_AccesoDatos\obj\Debug\net6.0\ref\GalletitasFlopi_AccesoDatos.dll

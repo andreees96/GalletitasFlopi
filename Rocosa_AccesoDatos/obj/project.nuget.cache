@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kAaf2moaC53tDS+5XLiuB1JsF/6Eq/C7Gm9VPepDhRxQq1HCBXGXo6Dk0elBBi1y/ocQ7r+irt84+OVwM2woBQ==",
+  "dgSpecHash": "GEUu4SyBc9eQyV4EhI13gtDbmFXXttqp8O5GBRCM5I7SGulfKgbWOLvkENJSJAbW+/RDLlepC45dL08YTBYF2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\Rocosa_AccesoDatos.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_AccesoDatos\\GalletitasFlopi_AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

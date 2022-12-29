@@ -1,0 +1,12 @@
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\bin\Debug\net6.0\GalletitasFlopi_Modelos.deps.json
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\bin\Debug\net6.0\GalletitasFlopi_Modelos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\bin\Debug\net6.0\GalletitasFlopi_Modelos.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\obj\Debug\net6.0\GalletitasFlopi_Modelos.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\obj\Debug\net6.0\GalletitasFlopi_Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\obj\Debug\net6.0\GalletitasFlopi_Modelos.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\obj\Debug\net6.0\GalletitasFlopi_Modelos.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\obj\Debug\net6.0\GalletitasFlopi_Modelos.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\obj\Debug\net6.0\GalletitasFlopi_Modelos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\obj\Debug\net6.0\refint\GalletitasFlopi_Modelos.dll
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\obj\Debug\net6.0\GalletitasFlopi_Modelos.pdb
+C:\Users\andre\OneDrive\Escritorio\Rocosa\Rocosa_Modelos\obj\Debug\net6.0\ref\GalletitasFlopi_Modelos.dll

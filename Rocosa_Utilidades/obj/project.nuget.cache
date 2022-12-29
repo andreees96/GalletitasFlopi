@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JShlZGheEdM7Wqr5K8b6vv850r5rdFcdpIr3VIDKhjKqXmVylbwnoK48dNgMWwPureaHtA7s2jqNRuJ7hs6GTA==",
+  "dgSpecHash": "Y1mU/J8eqDNMbjab5IAN/lu6b6g+A3MJeHtVhMDCr+n+7dgZYzjz0yDVR15Un0x44pgLRruOaO+BrqsmZU1mLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\Rocosa_Utilidades.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Escritorio\\Rocosa\\Rocosa_Utilidades\\GalletitasFlopi_Utilidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.12\\microsoft.aspnetcore.cryptography.internal.6.0.12.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.12\\microsoft.aspnetcore.cryptography.keyderivation.6.0.12.nupkg.sha512",

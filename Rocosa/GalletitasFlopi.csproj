@@ -24,9 +24,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Rocosa_AccesoDatos\Rocosa_AccesoDatos.csproj" />
-    <ProjectReference Include="..\Rocosa_Modelos\Rocosa_Modelos.csproj" />
-    <ProjectReference Include="..\Rocosa_Utilidades\Rocosa_Utilidades.csproj" />
+    <ProjectReference Include="..\Rocosa_AccesoDatos\GalletitasFlopi_AccesoDatos.csproj" />
+    <ProjectReference Include="..\Rocosa_Modelos\GalletitasFlopi_Modelos.csproj" />
+    <ProjectReference Include="..\Rocosa_Utilidades\GalletitasFlopi_Utilidades.csproj" />
   </ItemGroup>
 
 </Project>

@@ -8,14 +8,14 @@
     ".NETCoreApp,Version=v6.0": {
       "GalletitasFlopi/1.0.0": {
         "dependencies": {
+          "GalletitasFlopi_AccesoDatos": "1.0.0",
+          "GalletitasFlopi_Modelos": "1.0.0",
+          "GalletitasFlopi_Utilidades": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.12",
           "Microsoft.AspNetCore.Identity.UI": "6.0.12",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.12",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.12",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.11",
-          "Rocosa_AccesoDatos": "1.0.0",
-          "Rocosa_Modelos": "1.0.0",
-          "Rocosa_Utilidades": "1.0.0",
           "SendGrid": "9.28.1"
         },
         "runtime": {
@@ -2637,34 +2637,34 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "Rocosa_AccesoDatos/1.0.0": {
+      "GalletitasFlopi_AccesoDatos/1.0.0": {
         "dependencies": {
+          "GalletitasFlopi_Modelos": "1.0.0",
+          "GalletitasFlopi_Utilidades": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.12",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.12",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.12",
-          "Rocosa_Modelos": "1.0.0",
-          "Rocosa_Utilidades": "1.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.12"
         },
         "runtime": {
-          "Rocosa_AccesoDatos.dll": {}
+          "GalletitasFlopi_AccesoDatos.dll": {}
         }
       },
-      "Rocosa_Modelos/1.0.0": {
+      "GalletitasFlopi_Modelos/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
           "Microsoft.Extensions.Identity.Stores": "6.0.12"
         },
         "runtime": {
-          "Rocosa_Modelos.dll": {}
+          "GalletitasFlopi_Modelos.dll": {}
         }
       },
-      "Rocosa_Utilidades/1.0.0": {
+      "GalletitasFlopi_Utilidades/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.UI": "6.0.12",
           "SendGrid": "9.28.1"
         },
         "runtime": {
-          "Rocosa_Utilidades.dll": {}
+          "GalletitasFlopi_Utilidades.dll": {}
         }
       }
     }
@@ -4208,17 +4208,17 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "Rocosa_AccesoDatos/1.0.0": {
+    "GalletitasFlopi_AccesoDatos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Rocosa_Modelos/1.0.0": {
+    "GalletitasFlopi_Modelos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Rocosa_Utilidades/1.0.0": {
+    "GalletitasFlopi_Utilidades/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
